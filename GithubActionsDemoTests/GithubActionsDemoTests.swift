@@ -19,6 +19,7 @@ final class GithubActionsDemoTests: XCTestCase {
     }
 
     func testExample() throws {
+        XCTAssertTrue(true)
     }
 
     func testExample2() throws {
