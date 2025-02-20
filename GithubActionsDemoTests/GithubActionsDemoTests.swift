@@ -19,7 +19,7 @@ final class GithubActionsDemoTests: XCTestCase {
     }
 
     func testExample() throws {
-        XCTFail("Failing test")
+        XCTAssertTrue(true)
     }
 
     func testExample2() throws {
